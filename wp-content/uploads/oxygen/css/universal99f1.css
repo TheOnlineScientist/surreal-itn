@@ -1970,7 +1970,7 @@ justify-content:flex-start;
 }
 @media (max-width: 1023px) {
 .quote {
- font-size:23em;
+ font-size:23px;
 }
 }
 
@@ -1985,7 +1985,7 @@ justify-content:flex-start;
 
 @media (max-width: 479px) {
 .quote {
- font-size:19em;
+ font-size:19px;
 }
 }
 
@@ -2684,7 +2684,7 @@ justify-content:flex-start;
 
 @media (max-width: 479px) {
 .quote-simple {
- font-size:19em;
+ font-size:19px;
 }
 }
 
