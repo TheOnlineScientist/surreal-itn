@@ -2669,7 +2669,7 @@ justify-content:flex-start;
 }
 @media (max-width: 1023px) {
 .quote-simple {
- font-size:23em;
+ font-size:23px;
 }
 }
 
