@@ -2916,3 +2916,20 @@ blockquote {  font-family: 'Barlow Condensed';
 div.oxy-post-meta{
  visibility:hidden;
 }
+
+
+/* mobile fixes for static archive */
+html, body {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+@media (max-width: 1023px) {
+  .floating-block {
+    display: none !important;
+  }
+}
+@media (max-width: 799px) {
+  #section-196-3071 {
+    min-height: 0 !important;
+  }
+}
